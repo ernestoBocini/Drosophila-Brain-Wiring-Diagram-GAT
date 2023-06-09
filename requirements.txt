@@ -15,3 +15,4 @@ matplotlib
 tqdm
 jupyter
 node2vec
+seaborn
